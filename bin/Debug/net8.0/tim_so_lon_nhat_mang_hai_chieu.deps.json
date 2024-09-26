@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tim_so_lon_nhat_mang_hai_chieu/1.0.0": {
+        "runtime": {
+          "tim_so_lon_nhat_mang_hai_chieu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tim_so_lon_nhat_mang_hai_chieu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
